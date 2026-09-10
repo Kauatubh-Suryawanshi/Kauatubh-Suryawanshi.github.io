@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80" role="img" aria-label="Racing progress marker">
+  <defs>
+    <linearGradient id="body" x1="0" x2="1"><stop stop-color="#ff6b35"/><stop offset="1" stop-color="#ffb347"/></linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 48h26M3 55h24" stroke="#ff6b35" stroke-width="4" opacity=".45"/>
+    <path d="M38 50l8-18h30l18 18h20c8 0 14 5 14 11H34c0-7 0-11 4-11Z" fill="url(#body)" stroke="#1c1f24" stroke-width="3"/>
+    <path d="M55 33h18l9 12H50z" fill="#eef4ff" stroke="#1c1f24" stroke-width="3"/>
+    <circle cx="53" cy="62" r="9" fill="#111318" stroke="#fff" stroke-width="3"/>
+    <circle cx="108" cy="62" r="9" fill="#111318" stroke="#fff" stroke-width="3"/>
+    <circle cx="53" cy="62" r="3" fill="#ffb347"/>
+    <circle cx="108" cy="62" r="3" fill="#ffb347"/>
+    <path d="M101 43h10" stroke="#fff" stroke-width="3" opacity=".8"/>
+  </g>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://Kauatubh-Suryawanshi.github.io/sitemap.xml

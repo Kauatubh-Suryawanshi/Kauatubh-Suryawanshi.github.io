@@ -1,0 +1,24 @@
+{
+  "name": "Kaustubh Suryawanshi — Data Science, Machine Learning & AI",
+  "short_name": "Kaustubh Suryawanshi",
+  "description": "Portfolio of Kaustubh Suryawanshi — Data Science, Machine Learning and AI Engineering.",
+  "start_url": "https://Kauatubh-Suryawanshi.github.io/",
+  "scope": "https://Kauatubh-Suryawanshi.github.io/",
+  "display": "standalone",
+  "background_color": "#F5F5F7",
+  "theme_color": "#F5F5F7",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
